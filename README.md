@@ -12,6 +12,7 @@ just a small attempt at creating socket.io &amp; rest endpoints over express/Nod
 
 ### dependencies: ###
 * a redis server
+
 #### libraries: ####
 * express
 * body-parser
